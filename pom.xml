@@ -2461,7 +2461,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2520,7 +2520,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2578,7 +2578,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2635,7 +2635,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2693,7 +2693,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2753,7 +2753,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2812,7 +2812,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
@@ -2871,7 +2871,7 @@
         <dependency>
           <groupId>org.checkerframework</groupId>
           <artifactId>checker</artifactId>
-          <version>3.25.0</version>
+          <version>3.26.0</version>
         </dependency>
       </dependencies>
     </profile>
